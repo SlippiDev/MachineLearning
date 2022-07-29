@@ -1,4 +1,4 @@
-# Machine Learning Folder in PythonProjects
+# Machine Learning
 
 This is the main folder I will be using to store all of my Machine Learning work I do as I learn how to utilize Machine Learning.
 
